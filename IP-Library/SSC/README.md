@@ -1,6 +1,7 @@
 # Konami 2212P003 (SCC)
 
-> [!CAUTION] Disclaimer: 
+> [!CAUTION]
+> Disclaimer: 
 > This implementation may not fully replicate full behavior of the original Konami 2212P003. If you want fully replication of the original Konami 2212P003, this implementation is available, contact me. Use at your own risk.
 
 > [!IMPORTANT] 
