@@ -1,6 +1,7 @@
 # MSX-ENGINE (Yamaha S3527)
 
-> [!CAUTION] Disclaimer: 
+> [!CAUTION]
+> Disclaimer: 
 > This implementation may not fully replicate full behavior of the original Yamaha S3527. If you want fully replication of the original Yamaha S3527, this implementation is available, contact me. Use at your own risk.
 
 > [!CAUTION] 
