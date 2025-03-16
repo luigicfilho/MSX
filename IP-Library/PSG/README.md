@@ -1,6 +1,7 @@
 # AY-3-8910 - Programable Sound Generator (PSG)
 
-> [!CAUTION] Disclaimer: 
+> [!CAUTION]
+> Disclaimer: 
 > This implementation may not fully replicate full behavior of the original AY-3-8910. If you want fully replication of the original AY-3-8910, contact me. Use at your own risk.
 
 This repository contains a Verilog implementation of the AY-3-8910 Programmable Sound Generator (PSG), commonly used in MSX computers and other retro systems. The AY-3-8910 is a classic sound chip that generates audio signals with three channels, noise generation, and envelope control.
